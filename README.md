@@ -1,27 +1,27 @@
-<img src="assets/sticker-album.png" alt="Nelson’s Sticker Album: a football sticker album page with one sticker for each of my projects, from Corrientes to London" width="100%">
+### Hi, I’m Nelson 👋
 
-I’m Nelson, a backend engineer from Corrientes, Argentina, living in London. These are the things I build after hours.
+Backend engineer at Spotify in London, originally from Corrientes, Argentina. After hours I build small products and keep them running.
 
-## Squad
+<a href="https://github.com/nelsongallardo/nelsongallardo/blob/main/scripts/build.py">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+    <img src="assets/activity-light.svg" width="100%" alt="GitHub activity over the last 12 months: contributions, active days, longest streak, pull requests, sites up, and a weekly bar chart">
+  </picture>
+</a>
 
-| | Sticker | What it is |
-|---|---|---|
-| NG 3 | [derabona](https://derabona.club/) | Guess the footballer from their club career. [Code](https://github.com/nelsongallardo/guess-the-player) |
-| NG 4 | [CuizAI](https://cuiz-ai.com/) | Turns your notes into quizzes and flashcards |
-| NG 5 | [Tube Sound Quiz](https://tubesoundquiz.com/) | Which Tube line sounds like this? [Code](https://github.com/nelsongallardo/tube-quiz) |
-| NG 6 | [kindle-dash](https://github.com/nelsongallardo/kindle-dash) | A jailbroken Kindle turned into a morning newspaper |
-| NG 7 | [nstack](https://github.com/nelsongallardo/nstack) | Rules I got tired of repeating to coding agents |
-| NG 8 | [phog-cli](https://github.com/nelsongallardo/posthog-cli) | PostHog from the terminal |
-| NG 9 | [tab-router](https://github.com/nelsongallardo/firefox-tab-router) | Sends every link to its Firefox tab group |
-| NG 10 | *Need* | Coming soon. Got any swaps? |
+#### In production
 
-## Bonus sticker
+| Service | What it is | Status | Response | Uptime (30 days) |
+|---|---|---|--:|--:|
+| [derabona.club](https://derabona.club/) | Guess the footballer from their club career · [code](https://github.com/nelsongallardo/guess-the-player) | 🟢&nbsp;Up | 128&nbsp;ms | tracking since 24 Nov |
+| [cuiz-ai.com](https://cuiz-ai.com/) | Turns your notes into quizzes and flashcards | 🟢&nbsp;Up | 99&nbsp;ms | tracking since 24 Nov |
+| [tubesoundquiz.com](https://tubesoundquiz.com/) | Which Tube line sounds like this? · [code](https://github.com/nelsongallardo/tube-quiz) | 🟢&nbsp;Up | 203&nbsp;ms | tracking since 24 Nov |
 
-Who went **Racing → Genoa → Zaragoza → Genoa → Inter → Racing**?
+<sub>Checked hourly by a GitHub Action · last run 24 Nov 2026, 21:49 UTC · [how this page is built](https://github.com/nelsongallardo/nelsongallardo/blob/main/scripts/build.py)</sub>
 
-<details>
-<summary>Flip it</summary>
+#### Other things I’ve built
 
-**Diego Milito.** Both goals in the 2010 Champions League final.
-
-</details>
+- [kindle-dash](https://github.com/nelsongallardo/kindle-dash): a jailbroken Kindle turned into a morning newspaper
+- [nstack](https://github.com/nelsongallardo/nstack): rules I got tired of repeating to coding agents
+- [phog-cli](https://github.com/nelsongallardo/posthog-cli): PostHog from the terminal
+- [tab-router](https://github.com/nelsongallardo/firefox-tab-router): sends every link to its Firefox tab group
