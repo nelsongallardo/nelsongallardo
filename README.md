@@ -1,4 +1,4 @@
-### Hi, I’m Nelson 👋
+### Hi, I’m Nelson 🐭
 
 Backend engineer at Spotify in London, originally from Corrientes, Argentina. After hours I build small products and keep them running.
 
