@@ -13,11 +13,11 @@ Backend engineer at Spotify in London, originally from Corrientes, Argentina. Af
 
 | Service | What it is | Status | Response | Uptime (30 days) |
 |---|---|---|--:|--:|
-| [derabona.club](https://derabona.club/) | Guess the footballer from their club career · [code](https://github.com/nelsongallardo/guess-the-player) | 🟢&nbsp;Up | 309&nbsp;ms | tracking since 24 Nov |
-| [cuiz-ai.com](https://cuiz-ai.com/) | Turns your notes into quizzes and flashcards | 🟢&nbsp;Up | 912&nbsp;ms | tracking since 24 Nov |
-| [tubesoundquiz.com](https://tubesoundquiz.com/) | Which Tube line sounds like this? · [code](https://github.com/nelsongallardo/tube-quiz) | 🟢&nbsp;Up | 415&nbsp;ms | tracking since 24 Nov |
+| [derabona.club](https://derabona.club/) | Guess the footballer from their club career · [code](https://github.com/nelsongallardo/guess-the-player) | 🟢&nbsp;Up | 303&nbsp;ms | tracking since 24 Nov |
+| [cuiz-ai.com](https://cuiz-ai.com/) | Turns your notes into quizzes and flashcards | 🟢&nbsp;Up | 997&nbsp;ms | tracking since 24 Nov |
+| [tubesoundquiz.com](https://tubesoundquiz.com/) | Which Tube line sounds like this? · [code](https://github.com/nelsongallardo/tube-quiz) | 🟢&nbsp;Up | 325&nbsp;ms | tracking since 24 Nov |
 
-<sub>Checked hourly by a GitHub Action · last run 25 Nov 2026, 15:34 UTC · [how this page is built](https://github.com/nelsongallardo/nelsongallardo/blob/main/scripts/build.py)</sub>
+<sub>Checked hourly by a GitHub Action · last run 26 Nov 2026, 00:18 UTC · [how this page is built](https://github.com/nelsongallardo/nelsongallardo/blob/main/scripts/build.py)</sub>
 
 #### Other things I’ve built
 
